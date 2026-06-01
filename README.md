@@ -32,6 +32,26 @@ Active Duty U.S. Navy professional pursuing a career in Cybersecurity and Inform
 - Segmented Networks
 - Security Monitoring
 
+### Enterprise Cybersecurity Home Lab
+Repository:
+[home-soc-lab](https://github.com/hossainmobin8353-sudo/home-soc-lab)
+
+Features:
+- Active Directory Domain Services
+- Windows 11 Enterprise
+- Kali Linux
+- Splunk SIEM
+- Segmented Networks
+- Security Monitoring
+
+## Education
+Bachelor of Science, Cybersecurity and Information Assurance
+Western Governors University (WGU)
+
+Bachelor of Science, Managerial Accounting
+Purdue Global University
+
+
 ## Career Goal
 Transition into a SOC Analyst, Cybersecurity Analyst, or Information Security role where I can apply military leadership, technical skills, and continuous learning to protect enterprise environments.
 
