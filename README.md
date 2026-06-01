@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Mobin Hossain 👋
 
-<!--
-**hossainmobin8353-sudo/hossainmobin8353-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Active Duty U.S. Navy professional pursuing a career in Cybersecurity and Information Technology. Currently completing a Bachelor of Science in Cybersecurity and Information Assurance at WGU while building hands-on experience through enterprise-style home lab projects.
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA CySA+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- CompTIA Project+
+- CompTIA Data+
+- LPI Linux Essentials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Security Operations (SOC)
+- Incident Response
+- Active Directory
+- Windows Server
+- Splunk SIEM
+- Microsoft Defender
+- Network Security
+- Vulnerability Management
+- PowerShell
+
+## Current Projects
+### Enterprise Cybersecurity Home Lab
+- Active Directory Domain Services
+- Windows 11 Enterprise
+- Kali Linux
+- Splunk SIEM
+- Segmented Networks
+- Security Monitoring
+
+## Career Goal
+Transition into a SOC Analyst, Cybersecurity Analyst, or Information Security role where I can apply military leadership, technical skills, and continuous learning to protect enterprise environments.
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/mhossain8353
+- Email: hossain.mobin8353@gmail.com
+
+---
+"Continuous learning. Continuous improvement. Continuous service."
